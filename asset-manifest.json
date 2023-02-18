@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rodaviSite/static/css/main.2d9ceef4.css",
-    "main.js": "/rodaviSite/static/js/main.79920352.js",
+    "main.js": "/rodaviSite/static/js/main.fcbaf4b4.js",
     "static/js/787.8efce807.chunk.js": "/rodaviSite/static/js/787.8efce807.chunk.js",
     "index.html": "/rodaviSite/index.html",
     "main.2d9ceef4.css.map": "/rodaviSite/static/css/main.2d9ceef4.css.map",
-    "main.79920352.js.map": "/rodaviSite/static/js/main.79920352.js.map",
+    "main.fcbaf4b4.js.map": "/rodaviSite/static/js/main.fcbaf4b4.js.map",
     "787.8efce807.chunk.js.map": "/rodaviSite/static/js/787.8efce807.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d9ceef4.css",
-    "static/js/main.79920352.js"
+    "static/js/main.fcbaf4b4.js"
   ]
 }
